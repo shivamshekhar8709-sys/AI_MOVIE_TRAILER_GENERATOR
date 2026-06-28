@@ -1,3 +1,4 @@
 # AI_MOVIE_TRAILER_GENERATOR
 Echoes of Silence: An AI Movie Trailer Generator This project uses Gemini 2.5 Flash to script a sci-fi multiverse story, Edge-TTS for cinematic narration, and MoviePy for automated video editing with zoom effects. It demonstrates a complete GenAI pipeline from text to a fully rendered cinematic action trailer.
+
 Title: Multiverse: The Similar but Different Worlds (Echoes of Silence) Genre: Science Fiction / Action Description: An AI-generated cinematic trailer exploring the story of Agent Anya Sharma, whose mundane reality is shattered by a multiversal breach. To stop a shadowy entity from devouring parallel dimensions, Anya must unite with alternate versions of herself—a brilliant scientist and a hardened mercenary—to form the last line of defense against universal annihilation. This project demonstrates an end-to-end generative AI pipeline combining LLMs for scriptwriting, TTS for narration, and MoviePy for cinematic video synthesis.
